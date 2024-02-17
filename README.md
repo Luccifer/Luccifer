@@ -1,2 +1,2 @@
-![Luccifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luccifer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Luccifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luccifer&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
