@@ -7,19 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/p051x" target="blank"><img src="https://img.shields.io/twitter/follow/p051x?logo=twitter&style=for-the-badge" alt="p051x" /></a> </p>
 
-- 🌱 I’m currently learning **deep security hardening of k8s**
-
-- 📝 I regularly write articles and you can find them at [https://orcid.org/0000-0003-4019-4324](https://orcid.org/0000-0003-4019-4324)
-
-- 📫 How to reach me **gk@eyerise.io**
-
-- 📄 Know about my experiences [https://hh.ru/resume/f9258d10ff0b505b380039ed1f656455555742](https://hh.ru/resume/f9258d10ff0b505b380039ed1f656455555742)
+- 📝 I write articles and you can find them at [https://orcid.org/0000-0003-4019-4324](https://orcid.org/0000-0003-4019-4324)
 
 - ⚡ Fun fact **I love cooking and all related to it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/p051x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="p051x" height="30" width="40" /></a>
 <a href="https://twitter.com/p051x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p051x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gleb-karpushkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gleb-karpushkin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4962840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4962840" height="30" width="40" /></a>
